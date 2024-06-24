@@ -12,9 +12,9 @@ int main(){
 	
 	
 	if(nota >= 7.0){
-		printf("\nnota necessária para aprovação: 7.0+\n");
+		printf("\nnota necessÃ¡ria para aprovaÃ§Ã£o: 7.0+\n");
 		printf("\nsua nota: %.1f", nota);
-		printf("\n\nparabéns! você foi aprovado!\n");
+		printf("\n\nparabÃ©ns! vocÃª foi aprovado!\n");
 	}
 	
 }
