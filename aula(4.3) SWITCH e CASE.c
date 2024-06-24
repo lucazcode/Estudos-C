@@ -15,7 +15,7 @@ int main(){
 			printf("\nsegunda-feira\n");
 			break;
 		case 3:
-			printf("\nterça-feira\n");
+			printf("\nterÃ§a-feira\n");
 			break;
 		case 4:
 			printf("\nquarta-feira\n");
@@ -27,10 +27,10 @@ int main(){
 			printf("\nsexta-feira\n");
 			break;
 		case 7:
-			printf("\nsábado\n");
+			printf("\nsÃ¡bado\n");
 			break;
 		default:
-			printf("\ncódigo não reconhecido. digite um valor de 1 a 4.\n");
+			printf("\ncÃ³digo nÃ£o reconhecido. digite um valor de 1 a 4.\n");
 	}
 	
 }
