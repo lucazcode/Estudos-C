@@ -2,7 +2,7 @@
 
 int main(){
 	
-	printf("operadores aritméticos:\n\n");
+	printf("operadores aritmÃ©ticos:\n\n");
 	
 	int A, B, soma, sub, mult, div;
 	
@@ -19,11 +19,11 @@ int main(){
 	
 	printf("\nresultados:\n\n");
 	printf("soma dos valores: %d\n", soma);
-	printf("subtração dos valores: %d\n", sub);
-	printf("multiplicação dos valores: %d\n", mult);
-	printf("divisão dos valores: %d\n\n", div);
+	printf("subtraÃ§Ã£o dos valores: %d\n", sub);
+	printf("multiplicaÃ§Ã£o dos valores: %d\n", mult);
+	printf("divisÃ£o dos valores: %d\n\n", div);
 	
-	printf("atribuições aritméticas:\n\n");
+	printf("atribuiÃ§Ãµes aritmÃ©ticas:\n\n");
 	
 	int dado = 10;
 	printf("dado antes do incremento: %d\n", dado);
