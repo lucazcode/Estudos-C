@@ -40,7 +40,7 @@
 //	
 //}
 
-//MANEIRA SIMPLIFICADA + INPUT USU¡RIO
+//MANEIRA SIMPLIFICADA + INPUT USU√ÅRIO
 
 #include <stdio.h>
 
