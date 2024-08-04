@@ -23,7 +23,7 @@ int main(){
 		printf("Insira os Dados no registro %d:\n\n", i+1);
 		
 		printf("Nome: ");
-		scanf("%50[^\n]s", &lista[i]. nome);
+		scanf("%50[^\n]s", &lista[i].nome);
 		fflush(stdin);
 		
 		printf("Idade: ");
