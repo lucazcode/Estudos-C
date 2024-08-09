@@ -15,7 +15,7 @@ int main(int argc,char *argv[]){
 	}
 	else{
 		system("color 0C");
-		printf("Não foram inseridos argumentos adicionais.");
+		printf("NÃ£o foram inseridos argumentos adicionais.");
 	}
 
 	return 0;
