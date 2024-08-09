@@ -15,7 +15,7 @@ int main(){
 	soma = A + B;
 	sub = A - B;
 	mult = A * B;
-	div = A % B;
+	div = A / B;
 	
 	printf("\nresultados:\n\n");
 	printf("soma dos valores: %d\n", soma);
