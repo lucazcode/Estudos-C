@@ -18,7 +18,7 @@ int main(){
 	//Criando e inicializando
 	tipo_pessoa pes = {0, 0.0, "Teste"};
 	
-	puts("Início:");
+	puts("InÃ­cio:");
 	printf("pes.idade: %d\n", pes.idade);
 	printf("pes.peso: %.2f\n", pes.peso);
 	printf("pes.nome: %s\n", pes.nome);
@@ -28,13 +28,12 @@ int main(){
 	pes.peso = 99.99;
 	strcpy(pes.nome, "Texto alterado");
 	
-	puts("\nAlterando os campos via código:");
+	puts("\nAlterando os campos via cÃ³digo:");
 	printf("pes.idade: %d\n", pes.idade);
 	printf("pes.peso: %.2f\n", pes.peso);
 	printf("pes.nome: %s\n", pes.nome);
 	
-	//Solicitando inserções via usuário
-	
+	//Solicitando inserÃ§Ãµes via usuÃ¡rio
 	puts("\nInsira uma idade:");
 	scanf("%d", &pes.idade);
 	fflush(stdin);
@@ -47,7 +46,7 @@ int main(){
 	scanf("%[^\n]s", &pes.nome);
 	fflush(stdin);
 	
-	puts("\nDados inseridos pelo usuário:");
+	puts("\nDados inseridos pelo usuÃ¡rio:");
 	printf("pes.idade: %d\n", pes.idade);
 	printf("pes.peso: %.2f\n", pes.peso);
 	printf("pes.nome: %s\n", pes.nome);
