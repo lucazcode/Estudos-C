@@ -15,17 +15,17 @@ int main(){
 	
 	float x, y;
 	
-	puts("CONFERIR NÚMERO MAIOR\n");
+	puts("CONFERIR NÃšMERO MAIOR\n");
 	
-	printf("Digite o primeiro número: ");
+	printf("Digite o primeiro nÃºmero: ");
 	scanf("%f", &x);
 	
-	printf("\nDigite o segundo número: ");
+	printf("\nDigite o segundo nÃºmero: ");
 	scanf("%f", &y);
 	
 	float res = maior_menor(x, y);
 	
-	printf("\nO maior número é: %.2f", res);
+	printf("\nO maior nÃºmero Ã©: %.2f", res);
 		
 	return 0;
 }
