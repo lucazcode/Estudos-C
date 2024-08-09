@@ -3,7 +3,7 @@
 
 int main(){
 	
-	printf("ola, mundo!\n");
+	printf("Olá, Mundo!\n");
 
 	system("pause");
 
